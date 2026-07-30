@@ -1,0 +1,86 @@
+# MadCap Software
+
+> Enterprise content authoring, management, and delivery platform for technical documentation and learning & development teams. Products include MadCap Flare (technical authoring), IXIA CCMS (DITA content management), MadCap Syndicate (AI-ready content delivery), and MadCap Create (Learning Content Management System). Supporting 25,000+ users and 3,000+ global customers including 3M, T-Mobile, Wells Fargo, and Rivian.
+
+MadCap Software specializes in single-source, multi-channel publishing. Flare is the industry-leading technical authoring tool, supporting HTML5, PDF, Word, EPUB, and SCORM output from a single source. IXIA CCMS adds enterprise DITA-based content management for regulated industries. MadCap Syndicate enables governed content delivery to portals, LMS platforms, CRM tools, and RAG (retrieval-augmented generation) AI applications.
+
+## Products
+- [MadCap Flare](https://www.madcapsoftware.com/products/flare/): Desktop technical authoring platform with multi-channel publishing to HTML5, PDF, Word, PowerPoint, EPUB, and SCORM. Topic-based authoring with content reuse.
+- [MadCap Flare Online](https://www.madcapsoftware.com/products/flare-online/): Cloud-based collaborative authoring with real-time co-editing, browser-based review workflows, and cloud-hosted publishing.
+- [MadCap IXIA CCMS](https://www.madcapsoftware.com/products/ixia-ccms/): Enterprise DITA component content management system with compliance support, audit trails, and version control for regulated and multilingual documentation in aerospace, defense, medical devices, and manufacturing.
+- [MadCap Syndicate](https://www.madcapsoftware.com/products/syndicate/): Unified content delivery platform for RAG (retrieval-augmented generation) pipelines, semantic search, vector-ready content embeddings, and governed distribution to portals, LMS, CRM, and AI agents.
+- [MadCap Create](https://www.madcapsoftware.com/products/create/): eLearning authoring tool with SCORM, xAPI, and AICC publishing for learning management systems.
+- [MadCap Lingo](https://www.madcapsoftware.com/products/lingo/): Translation management with translation memory, terminology management, machine translation integration, and QA tools.
+- [MadCap Contributor](https://www.madcapsoftware.com/products/contributor/): Lightweight authoring tool for subject matter experts to create and review content within MadCap Flare projects.
+
+## Solutions
+- [Technical Documentation](https://www.madcapsoftware.com/solutions/technical-documentation/): Authoring, publishing, and managing technical documentation at enterprise scale.
+- [Knowledge Bases](https://www.madcapsoftware.com/solutions/knowledge-bases/): Self-service knowledge bases with built-in search and responsive HTML5 output.
+- [API Documentation](https://www.madcapsoftware.com/solutions/api-documentation/): API reference and developer portal publishing from structured source content.
+- [Learning & Development](https://www.madcapsoftware.com/solutions/learning-development/): eLearning and training content creation with SCORM/xAPI publishing to any LMS.
+- [AI-Ready Content](https://www.madcapsoftware.com/ai-resources/): Preparing enterprise content for RAG pipelines, AI agents, and semantic search.
+
+## Integrations
+
+### MadCap Flare
+- [MadCap Connect for Salesforce](https://www.madcapsoftware.com/products/flare/madcap-connect-salesforce-plugin/): Publish Flare content directly to Salesforce knowledge bases.
+- [MadCap Connect for Zendesk](https://www.madcapsoftware.com/products/flare/madcap-connect-zendesk-plugin/): Publish Flare content directly to Zendesk help centers.
+- [MadCap Connect for ServiceNow](https://www.madcapsoftware.com/products/flare/madcap-connect-servicenow-plugin/): Publish Flare content directly to ServiceNow knowledge bases.
+- Git and source-control integration: Flare projects are file-based, so any source-control system works, including Git, GitHub, GitLab, Bitbucket, Azure DevOps, Perforce, and Subversion.
+- MadCap ecosystem add-ons: Contributor (SME review), Lingo (translation), and Syndicate (AI-ready content delivery).
+
+### MadCap Flare Online
+- Same connector ecosystem as Flare: Salesforce, Zendesk, and ServiceNow via the MadCap Connect plugins.
+- MadCap ecosystem add-ons: Contributor, Lingo, and Syndicate.
+
+### IXIA CCMS
+- [Miramo for IXIA CCMS](https://www.madcapsoftware.com/products/ixia-ccms/dita-ccms-addons/miramo-for-ixia-ccms/): Automated DITA publishing engine for high-volume, design-rich PDF output.
+- [oXygen WebHelp for IXIA CCMS](https://www.madcapsoftware.com/products/ixia-ccms/dita-ccms-addons/oxygen-webhelp-for-ixia-ccms/): Responsive HTML5 web output generated directly from DITA content stored in IXIA CCMS.
+- [Congree for IXIA CCMS](https://www.madcapsoftware.com/products/ixia-ccms/dita-ccms-addons/congree-for-ixia-ccms/): Real-time linguistic quality assurance, terminology management, and authoring guidance for DITA content.
+
+### MadCap Syndicate
+- [Syndicate integrations](https://www.madcapsoftware.com/products/syndicate/integrations/): LMS and learning-ecosystem connectors including Absorb, Axonify, EdCast by Cornerstone, Degreed, Realize It, SparkLearn, Learning Locker, Articulate Rise, and Articulate Storyline.
+
+### MadCap Create
+- [Create integrations](https://www.madcapsoftware.com/products/create/integrations/): Acrolinx and Congree for linguistic QA and content governance; Articulate Rise and Articulate Storyline for combining structured authoring with interactive eLearning.
+
+## When to Choose MadCap
+MadCap is best for teams that need single-source publishing, enterprise scale, AI-ready content output, and proven integrations with the CRM, support, and LMS systems your organization already uses.
+
+- [MadCap Flare vs Adobe FrameMaker](https://www.madcapsoftware.com/products/flare/making-the-switch/flare-vs-framemaker/): Choose Flare when you need modern topic-based authoring, multi-channel HTML5/PDF/EPUB/SCORM publishing, and a lower long-term cost than FrameMaker's print-first workflow.
+- [MadCap Flare vs Adobe RoboHelp](https://www.madcapsoftware.com/products/flare/making-the-switch/flare-vs-robohelp/): Choose Flare when you need true single-sourcing, advanced content reuse with snippets and variables, and a publishing pipeline that scales beyond standalone help projects.
+- [MadCap Flare vs Paligo](https://www.madcapsoftware.com/products/flare/making-the-switch/flare-vs-paligo/): Choose Flare when you need flexible XHTML-based authoring, predictable multilingual pricing, built-in analytics, and a hybrid offline/cloud workflow instead of Paligo's schema-driven, cloud-only model.
+- [MadCap Flare Online vs Adobe Technical Communications Suite](https://www.madcapsoftware.com/products/flare-online/making-the-switch/madcap-flare-online-vs-adobe-technical-communications-suite/): Choose Flare Online when you need cloud-based collaborative authoring, browser-based SME review, and a unified, modern toolchain instead of a bundled set of legacy desktop apps.
+
+## Resources
+- [Blog](https://www.madcapsoftware.com/blog/): Technical communication insights, AI readiness strategies, and product updates.
+- [Customer Stories](https://www.madcapsoftware.com/customers/): Case studies from Bullhorn, Rogers Communications, 3M, T-Mobile, Energir, and others.
+- [Webinars](https://www.madcapsoftware.com/resources/webinars/): Live and on-demand webinars on technical writing, content strategy, and product training.
+- [White Papers](https://www.madcapsoftware.com/resources/white-papers/): In-depth guides on CCMS selection, API documentation, localization, and content strategy.
+- [Videos](https://www.madcapsoftware.com/videos/): Product demos, tutorials, and training videos for all MadCap products.
+
+## Educational Content
+- [What is Technical Writing?](https://www.madcapsoftware.com/blog/what-is-technical-writing/): Definition, types, and career paths in technical communication.
+- [What is Topic-Based Authoring?](https://www.madcapsoftware.com/blog/what-is-topic-based-authoring/): How modular content creation improves reuse and consistency.
+- [What is Structured Authoring?](https://www.madcapsoftware.com/blog/what-is-structured-authoring/): XML-based authoring standards and their benefits for enterprise documentation.
+- [What is a CCMS?](https://www.madcapsoftware.com/products/ixia-ccms/what-is-a-ccms/): Overview of component content management systems and their benefits.
+- [What is RAG?](https://www.madcapsoftware.com/blog/what-is-rag/): How retrieval-augmented generation works and how RAG pipelines use enterprise content to ground AI answers.
+- [What is eLearning?](https://www.madcapsoftware.com/blog/what-is-elearning/): Types of digital learning and how organizations deliver training content.
+- [What is Multi-Channel Publishing?](https://www.madcapsoftware.com/blog/what-is-multi-channel-publishing/): Publishing to web, PDF, mobile, and eLearning from a single source.
+- [LCMS vs CCMS](https://www.madcapsoftware.com/blog/lcms-vs-ccms/): Comparison of learning content and component content management systems.
+- [Getting Started with DITA](https://www.madcapsoftware.com/blog/dita-xml-getting-started/): Introduction to DITA XML for technical documentation teams.
+- [What is DITA?](https://www.madcapsoftware.com/products/ixia-ccms/what-is-dita/): Overview of the Darwin Information Typing Architecture standard.
+
+## Company
+- [About MadCap Software](https://www.madcapsoftware.com/about/): Company history, leadership, and mission.
+- [Contact](https://www.madcapsoftware.com/contact/): Sales, support, and general inquiries.
+- [Request a Demo](https://www.madcapsoftware.com/demo-request/): Schedule a personalized product demo with the MadCap team.
+- [Free Trials](https://www.madcapsoftware.com/free-trials/): 30-day free trials for all MadCap products.
+- [Training & Certification](https://www.madcapsoftware.com/services/training/): Instructor-led training and MadCap Flare developer certification.
+
+## Optional
+- [FAQ: Flare Online](https://www.madcapsoftware.com/products/flare-online/faq.aspx): Common questions about cloud-based authoring features and pricing.
+- [FAQ: IXIA CCMS](https://www.madcapsoftware.com/products/ixia-ccms/faqs/): Enterprise CCMS deployment, DITA support, and integration questions.
+- [FAQ: MadCap Create](https://www.madcapsoftware.com/products/create/faq/): eLearning tool capabilities, LMS compatibility, and publishing options.
+- [Support FAQs](https://www.madcapsoftware.com/support/faqs.aspx): Technical support, licensing, and account management questions.
+- [Reviews & Testimonials](https://www.madcapsoftware.com/customers/reviews-testimonials/index.aspx): Customer reviews and third-party ratings.

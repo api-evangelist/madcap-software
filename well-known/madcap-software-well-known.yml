@@ -1,0 +1,23 @@
+generated: '2026-07-20'
+method: searched
+source: probe of https://www.madcapsoftware.com/.well-known/ and https://help.madcapsoftware.com/.well-known/
+host: https://www.madcapsoftware.com
+documents:
+  - path: /.well-known/security.txt
+    status: 404
+  - path: /.well-known/openid-configuration
+    status: 404
+  - path: /.well-known/oauth-authorization-server
+    status: 404
+  - path: /.well-known/api-catalog
+    status: 404
+  - path: /.well-known/ai-plugin.json
+    status: 404
+  - path: /llms.txt
+    status: 200
+    file: ../llms/madcap-software-llms.txt
+notes: >-
+  MadCap Software publishes a real /llms.txt at the marketing host (saved
+  verbatim to llms/madcap-software-llms.txt). No /.well-known/ discovery
+  documents are served on the www or help hosts. help.madcapsoftware.com
+  /.well-known/security.txt also returns 404. Absence recorded as valid data.
