@@ -1,9 +1,34 @@
 aid: madcap-software
 name: MadCap Software
-description: MadCap Software is a company surfaced as a portfolio company of battery-ventures and added
-  to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: >-
+  MadCap Software is an enterprise content authoring, management, and delivery
+  company for technical documentation and learning & development teams. Its
+  platform spans MadCap Flare (topic-based technical authoring with
+  single-source, multi-channel publishing to HTML5, PDF, Word, EPUB, and
+  SCORM), MadCap Flare Online (cloud collaborative authoring and review), MadCap
+  IXIA CCMS (enterprise DITA component content management for regulated
+  industries), MadCap Syndicate (AI-ready, governed content delivery to portals,
+  LMS, CRM, and RAG pipelines), MadCap Create (eLearning authoring), MadCap Lingo
+  (translation management), and MadCap Contributor. MadCap serves 25,000+ users
+  and 3,000+ customers including 3M, T-Mobile, Wells Fargo, and Rivian. The
+  company's developer surface is the .NET Flare Plug-In API and Help Viewer SDK
+  plus the MadCap Connect connectors for Salesforce, Zendesk, and ServiceNow;
+  it does not publish a public REST/HTTP API. Added to the API Evangelist
+  network from the Battery Ventures portfolio and enriched from its public
+  documentation surface.
 url: https://raw.githubusercontent.com/api-evangelist/madcap-software/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://f1.madcapsoftware.com/websiteImages/open-graph/opengraph-homepageV2.png
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -12,12 +37,53 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
+x-enrichment:
+  date: '2026-07-20'
+  status: enriched
+  artifacts_added: 3
+  pass: local-v1
 tags:
 - Company
+- Technical Documentation
+- Content Management
+- Authoring
+- DITA
+- CCMS
+- Knowledge Base
+- eLearning
+- Localization
+- AI-Ready Content
 apis: []
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+common:
+- type: DomainSecurity
+  url: security/madcap-software-domain-security.yml
+- type: Website
+  url: https://www.madcapsoftware.com/
+- type: Documentation
+  url: https://help.madcapsoftware.com/
+- type: APIReference
+  url: https://help.madcapsoftware.com/flare2024r2//Content/Flare/Plug-In-API/Plugin-API.htm
+- type: Support
+  url: https://www.madcapsoftware.com/support/
+- type: Blog
+  url: https://www.madcapsoftware.com/blog/
+- type: Pricing
+  url: https://www.madcapsoftware.com/pricing/
+- type: SignUp
+  url: https://www.madcapsoftware.com/free-trials/
+- type: TermsOfService
+  url: https://www.madcapsoftware.com/company/terms.aspx
+- type: PrivacyPolicy
+  url: https://www.madcapsoftware.com/privacy/
+- type: GitHubOrganization
+  url: https://github.com/MadCapSoftware
+- type: LLMsTxt
+  url: llms/madcap-software-llms.txt
+- type: WellKnown
+  url: well-known/madcap-software-well-known.yml
